@@ -1,7 +1,7 @@
 # 🌟 KiteAI 机器人 - AI 驱动自动化 🤖
 
 🚀 **一个使用 Node.js 开发的机器人，旨在与 KiteAI 测试网络平台进行互动，它拥有优雅的终端界面和自动化的 AI 驱动互动。**
-
+🚀 **注意：1、要在 VPS 上部署，墙内测试成功率很低；2、我只跑了 main.js，不需要私钥；3、安全性自行甄别，原代码 AI 审核是安全的，通过 AI 翻译成中文，无添加；4、 我测试Groq调用有问题，不会生成问题。**
 ---
 
 ## ✨ 功能特点
@@ -21,7 +21,7 @@
 | 要求                     | 描述                                                    |
 |--------------------------|---------------------------------------------------------|
 | 🔹 **Node.js v16+**      | [点击这里下载](https://nodejs.org/) 🖥️                  |
-| 🔹 **KiteAI 测试网账号** | [点击注册](https://testnet.gokite.ai?r=R7H32kqJ) 🔗       |
+| 🔹 **KiteAI 测试网账号** | [点击注册](https://testnet.gokite.ai?r=aAjQGV9h) 🔗       |
 | 🔹 **Groq API 密钥**     | [点击获取](https://console.groq.com) 🔑                 |
 
 ---
@@ -32,12 +32,12 @@
 
 #### 1️⃣ 克隆仓库：  
 ```bash
-git clone https://github.com/rpchubs/KiteAI-BOT.git
+git clone https://github.com/rpchubs/KiteAI-BOT-Chinese.git
 ```
 
 #### 2️⃣ 进入项目文件夹：  
 ```bash
-cd KiteAI-BOT
+cd KiteAI-BOT-Chinese
 ```
 
 #### 3️⃣ 安装依赖：  
